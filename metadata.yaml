@@ -1,0 +1,29 @@
+_repo: The-Foundling-of-the-Wreck_68050
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-05-11'
+identifiers:
+  gutenberg: '68050'
+language: en
+pgterms:marc905: 20220327174737listed
+pgterms:marc906: '1845'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Groombridge and Sons,1845,pubdate 1867.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Foundling of the Wreck
+url: http://www.gutenberg.org/ebooks/68050
